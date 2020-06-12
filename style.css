@@ -1,0 +1,16 @@
+.main__text {
+  text-align: justify;
+  color: red;
+   }
+
+.list__link {
+	text-decoration: none;
+    font-weight: bold;
+    font-stretch: expanded;
+    font-style: italic;
+    color: #686868;
+}
+
+body {
+	background-color: #F0F0F0;
+}
